@@ -1,9 +1,0 @@
-streamlit
-pandas
-matplotlib
-mlxtend 
-plotly
-openpyxl
-seaborn
-networkx
-plotly.express
