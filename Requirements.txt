@@ -1,7 +1,6 @@
 streamlit
 plotly-express
 plotly
-plotly --upgrade
 pandas
 os
 networkx
