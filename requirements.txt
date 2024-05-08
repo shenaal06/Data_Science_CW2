@@ -1,9 +1,0 @@
-streamlit
-plotly.express
-pandas
-networkx
-matplotlib.pyplot
-association_rules, apriori
-seaborn
-plotly.graph_objects
-warnings
