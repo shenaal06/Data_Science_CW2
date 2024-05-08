@@ -2,10 +2,8 @@ streamlit
 plotly-express
 plotly
 pandas
-os
 networkx
 matplotlib.pyplot
 association_rules, apriori
 seaborn
-plotly.graph_objects
-warnings
+plotly.graph_object
